@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitForge</string>
+    <string name="app_tagline">Forge Your Best Self</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_workouts">Workouts</string>
+    <string name="nav_nutrition">Nutrition</string>
+    <string name="nav_progress">Progress</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Home Dashboard -->
+    <string name="greeting_morning">GOOD MORNING, %s!</string>
+    <string name="greeting_afternoon">KEEP THAT ENERGY UP, %s!</string>
+    <string name="greeting_evening">TIME TO FINISH STRONG, %s!</string>
+    <string name="greeting_night">REST UP, WARRIOR!</string>
+    <string name="ready_to_crush">READY TO CRUSH IT, %s?</string>
+
+    <!-- Workout -->
+    <string name="start_workout">START WORKOUT</string>
+    <string name="workout_complete">WORKOUT COMPLETE!</string>
+    <string name="beast_mode">BEAST MODE: ACTIVATED 💪🔥</string>
+
+    <!-- Nutrition -->
+    <string name="log_meal">Log Meal</string>
+    <string name="scan_food">Scan Food</string>
+    <string name="calories">Calories</string>
+    <string name="protein">Protein</string>
+    <string name="carbs">Carbs</string>
+    <string name="fat">Fat</string>
+
+    <!-- Progress -->
+    <string name="your_transformation">YOUR TRANSFORMATION</string>
+    <string name="body_metrics">Body Metrics</string>
+    <string name="strength_progress">Strength Progress</string>
+
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="done">Done</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+</resources>

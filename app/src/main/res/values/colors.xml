@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="forge_red">#E63946</color>
+    <color name="iron_black">#1D1D1F</color>
+    <color name="victory_green">#06D6A0</color>
+    <color name="electric_blue">#118AB2</color>
+    <color name="pure_white">#FFFFFF</color>
+
+    <!-- Functional Colors -->
+    <color name="cardio_zone">#FF6B6B</color>
+    <color name="strength_zone">#4ECDC4</color>
+    <color name="flexibility_zone">#A8DADC</color>
+    <color name="rest_recovery">#457B9D</color>
+    <color name="warning">#FFB627</color>
+    <color name="danger">#F72C25</color>
+
+    <!-- UI Colors -->
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1D1D1F</color>
+    <color name="surface_variant">#F5F5F5</color>
+    <color name="outline">#E0E0E0</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1D1D1F</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_disabled">#9CA3AF</color>
+
+    <!-- Status Colors -->
+    <color name="success">#06D6A0</color>
+    <color name="error">#F72C25</color>
+    <color name="info">#118AB2</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#E63946</color>
+    <color name="gradient_end">#FF8E53</color>
+</resources>
